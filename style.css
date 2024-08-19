@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dashet {
+  border: 5px dashed orange;
+ 
+  width: 0px auto;
+  margin: 200px;
+}
+.margin {
+  background-color: white;
+  margin:50px ;
+  height: 350px;
+}
+.border {
+  background-color: black;
+  margin: 15px;
+  padding: 15px;
+}
+.padding {
+  background-color: blanchedalmond;
+
+  margin: 20px;
+  padding: 20px;
+}
+.content {
+  background-color: orange;
+
+  margin: 19px;
+  padding: 19px;
+}
+
+.box1 {
+  color: black;
+  font-size: 10px;
+}
+.box2 {
+  color: white;
+  font-size: 10px;
+}
+.box3 {
+  color: black;
+  font-size: 10px;
+}
+.box4 {
+  color: white;
+  font-size: 10px;
+}
